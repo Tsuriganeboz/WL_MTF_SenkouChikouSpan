@@ -1,0 +1,5 @@
+*.suo
+Debug/
+*.db
+WL_MTF_SenkouChikouSpan/IndicatorInterfaceUnit.h
+WL_MTF_SenkouChikouSpan/TechnicalFunctions.h
